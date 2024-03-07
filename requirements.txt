@@ -4,3 +4,4 @@ sympy
 cairo-lang
 cairo-nile
 black
+eth-abi>=5.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
